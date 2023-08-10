@@ -1,0 +1,11 @@
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\bin\Debug\net6.0\cs-chip-classlib.deps.json
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\bin\Debug\net6.0\cs-chip-classlib.dll
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\bin\Debug\net6.0\cs-chip-classlib.pdb
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\obj\Debug\net6.0\cs-chip-classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\obj\Debug\net6.0\cs-chip-classlib.AssemblyInfoInputs.cache
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\obj\Debug\net6.0\cs-chip-classlib.AssemblyInfo.cs
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\obj\Debug\net6.0\cs-chip-classlib.csproj.CoreCompileInputs.cache
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\obj\Debug\net6.0\cs-chip-classlib.dll
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\obj\Debug\net6.0\refint\cs-chip-classlib.dll
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\obj\Debug\net6.0\cs-chip-classlib.pdb
+C:\Users\Joscha\source\repos\cs-chip\cs-chip-classlib\obj\Debug\net6.0\ref\cs-chip-classlib.dll
